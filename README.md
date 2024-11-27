@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # The Growth Letter  
 
 [**Live Demo**](https://thegrowthletter.netlify.app/)  
